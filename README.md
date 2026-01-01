@@ -36,7 +36,6 @@ Allure Reporting is integrated to generate detailed and user-friendly test execu
 
 JET_ASSIGNMENT
 ```
-├── .github/
 ├── allure-report/
 ├── allure-results/
 ├── constants/
@@ -136,7 +135,7 @@ After running tests, automatically the html report will be generated and can be 
 
 - **TC_04(Additional) Verify the clear filters functionality after filters appiled**
     - Open JET Career page
-    - Click on “Search for Job Title” and select “Sales” among Job Categories
+    - Click on “Search for Job Title” and select “Tech & Product” among Job Categories
     - Verify Category "Tech & Product" is selected and results number is matching
     - Refine the search from the left panel to the Country “Germany"
     - Click on ClearAll button
