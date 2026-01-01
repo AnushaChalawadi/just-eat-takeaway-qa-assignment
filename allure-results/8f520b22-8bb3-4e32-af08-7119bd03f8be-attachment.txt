@@ -1,3 +1,0 @@
-Extracted count from facet for Tech & Product: 25
-Extracted count from facet for Germany: 3
-There are total 200 jobs after reset

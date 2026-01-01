@@ -1,4 +1,4 @@
-# Just Eat Takeaway - Career Search Portal Automation Framework
+# Just Eat Takeaway - QA Assignment
 
 ## 📌 Project Overview
 This repository contains manual test cases for the Lieferando website (restaurant filtering feature) and a UI automation testing framework built using Playwright with JavaScript for the Just Eat Takeaway Career Portal.

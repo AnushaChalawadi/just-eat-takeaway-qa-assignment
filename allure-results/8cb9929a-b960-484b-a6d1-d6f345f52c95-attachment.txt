@@ -1,5 +1,0 @@
-Category Sales is selected from category list
-Extracted count from facet for Sales: 62
-Extracted count from facet for Germany: 12
-Pagination might be on last page, first job text did not change.
-Verification successful: All results are in the Sales.

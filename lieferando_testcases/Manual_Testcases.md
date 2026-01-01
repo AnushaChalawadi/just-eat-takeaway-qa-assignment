@@ -155,7 +155,7 @@ No filters are reset or removed when sort is applied/changed
     1. Apply multiple filters (Indian + Free Delivery)
     2. Refresh the page.
 - **Expected Results**: Applied filters remain active and resturant list remains filtered correctly.
-- **Risk/Impact**: HIGH - users frequently refresh the page, losing filters causes frustration to users.
+- **Risk/Impact**: Medium - users frequently refresh the page, losing filters causes frustration to users.
 
 ### TC_17: Filter Reset on Address Change
 - **Description**: Verify filter behavior when address changes.
@@ -164,7 +164,7 @@ No filters are reset or removed when sort is applied/changed
     1. Apply filters
     2. Change the delivery address.
 - **Expected Results**: Filters reset or update correctly based on new location.
-- **Risk/Impact**: HIGH – Critical feature , Wrong restaurants for location, can lead loss of interest in application.
+- **Risk/Impact**: High – Critical feature , Wrong restaurants for location, can lead loss of interest in application.
 
 ### TC_18: Minimum order amount accuracy after applying filters
 - **Description**: Verify that the minimum order amount displayed for each restaurant is accurate and respects the applied filter criteria.
@@ -173,4 +173,4 @@ No filters are reset or removed when sort is applied/changed
     1. Observe the minimum order amount (€) displayed on multiple restaurant cards.
     2. Apply filters.
 - **Expected Results**: All displayed restaurants have a minimum order selected value and Currency is consistently displayed as €.
-- **Risk/Impact**: HIGH – Incorrect minimum order data directly affects checkout eligibility and user trust.
+- **Risk/Impact**: High – Incorrect minimum order data directly affects checkout eligibility and user trust.
