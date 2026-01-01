@@ -1,0 +1,16 @@
+Total found 10 results for the Test search
+Found Multiple Locations : [
+  'Location :\nBerlin, Germany',
+  'Location :\nEnschede, Netherlands',
+  'Location :\nLondon, United Kingdom',
+  'Location :\nAmsterdam, Netherlands',
+  'Location :\nWrocław, Poland',
+  'Location :\nCopenhagen, Denmark'
+]
+Verification successful: Search contains results from multiple locations.
+Locations are now only Netherlands:  [
+  'Location :\nEnschede, Netherlands',
+  'Location :\nAmsterdam, Netherlands',
+  'Location :\nAmsterdam, Netherlands'
+]
+Verification successful: All results are in the Netherlands.

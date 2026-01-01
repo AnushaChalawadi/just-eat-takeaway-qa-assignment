@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3",
+    "allure-commandline": "^2.36.0",
+    "allure-playwright": "^3.4.3"
+  },
+  "name": "jet_automation_assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "playwright": "^1.57.0",
+    "playwright-core": "^1.57.0"
+  },
+  "scripts": {
+    "test": "npx playwright test",
+    "test-headed": "npx playwright test --headed",
+    "allure-generate": "npx allure generate allure-results --clean",
+    "allure-open": "npx allure open",
+    "test-chromium": "npx playwright test --project=chromium",
+    "test-firefox": "npx playwright test --project=firefox",
+    "test-webkit": "npx playwright test --project=chromium"
+  },
+  "keywords": [],
+  "author": "Anusha B Chalawadi",
+  "license": "ISC",
+  "description": ""
+}

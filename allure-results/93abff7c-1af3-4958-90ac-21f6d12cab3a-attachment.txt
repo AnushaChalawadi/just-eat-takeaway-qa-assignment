@@ -1,0 +1,2 @@
+Extracted count from facet for Germany: 3
+Apply now clicked successfully
