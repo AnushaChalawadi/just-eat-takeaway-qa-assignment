@@ -128,14 +128,14 @@ After running tests, automatically the html report will be generated and can be 
     - Verify all results are for "Sales"
 
 - **TC_03(Additional) Verify apply now button is available for selected job**
-    - Open JECT Career page
+    - Open JET Career page
     - Search for the Job Title "Engineer"
     - Refine the search from the left panel to the Country “Germany"
     - Click on First job from jobs list
     - Click on Apply now
 
 - **TC_04(Additional) Verify the clear filters functionality after filters appiled**
-    - Open JECT Career page
+    - Open JET Career page
     - Click on “Search for Job Title” and select “Sales” among Job Categories
     - Verify Category "Tech & Product" is selected and results number is matching
     - Refine the search from the left panel to the Country “Germany"
